@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\Йонко\\Downloads\\settings\\__MACOSX"
+		},
+		{
+			"path": "C:\\Users\\Йонко\\Desktop\\makers\\js\\Chapter_2"
+		},
+		{
+			"path": "C:\\Users\\Йонко\\Desktop\\makers\\js\\Chapter_1"
+		},
+		{
+			"path": "C:\\Users\\Йонко\\Desktop\\makers\\js\\Chapter_4"
+		},
+		{
+			"path": "C:\\Users\\Йонко\\Desktop\\makers\\js\\Chapter_3"
+		},
+		{
+			"path": "C:\\Users\\Йонко\\Desktop\\react-start"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "__MACOSX"
+	}
+}
